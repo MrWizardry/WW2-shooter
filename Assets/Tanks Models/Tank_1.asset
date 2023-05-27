@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WhichTank: {fileID: 544342361448845608, guid: cee6470048145bb42b9f2533133d6173, type: 3}
   life: 50
-  speed: 10
+  speed: 1000
   damage: 25
   resistance: 30
