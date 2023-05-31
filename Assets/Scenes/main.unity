@@ -214,6 +214,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 163512923, guid: cee6470048145bb42b9f2533133d6173, type: 3}
+      propertyPath: speed
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 544342361448845608, guid: cee6470048145bb42b9f2533133d6173, type: 3}
       propertyPath: m_Name
       value: Tank_B
@@ -353,7 +357,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 2116470796}
   bulletSpawn: {fileID: 1267263586}
   bulletSpeed: 10
-  shootDelay: 0.2
+  shootDelay: 0.3
   bulletLifespan: 2
 --- !u!4 &2091726159
 Transform:
